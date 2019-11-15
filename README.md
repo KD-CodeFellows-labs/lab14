@@ -22,9 +22,9 @@ Estimate of time needed to complete: __30 min__
 
 Start time: _9:32_
 
-Finish time: _9:47____
+Finish time: _9:57____
 
-Actual time needed to complete: __15 min ___
+Actual time needed to complete: __25 min ___
 
 ## See 1573840842990-description.sql for information
 
