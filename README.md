@@ -1,11 +1,11 @@
 # lab14
 Lab 14: Database Normalization
 
-Number and name of feature: ________________________________
+Number and name of feature: ____Database Setup______
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: __15__
 
-Start time: _9:00_
+Start time: _9:05_
 
 Finish time: _____
 
