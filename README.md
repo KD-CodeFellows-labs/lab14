@@ -26,7 +26,7 @@ Finish time: _9:47____
 
 Actual time needed to complete: __15 min ___
 
-See 1573840842990-description.sql for information
+## See 1573840842990-description.sql for information
 
 Number and name of feature: ____Addition of a migrations folder______
 
@@ -34,6 +34,6 @@ Estimate of time needed to complete: __30 min__
 
 Start time: _9:57_
 
-Finish time: _ ____
+Finish time: _10:27 ____
 
-Actual time needed to complete: __ ___
+Actual time needed to complete: __30 min ___
