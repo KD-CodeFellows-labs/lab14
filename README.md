@@ -53,5 +53,6 @@ SELECT title, author, name FROM books JOIN bookshelves ON bookshelves.id = books
  The Great Gatsby           | Francis Scott Fitzgerald  | Classics
  Animal Farm                | George Orwell             | Satire
  What Alice Forgot          | Liane Moriarty            | Fiction
+----------------------------+---------------------------+---------------
 (10 rows)
 
