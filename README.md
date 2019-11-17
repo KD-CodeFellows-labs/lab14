@@ -43,16 +43,16 @@ SELECT title, author, name FROM books JOIN bookshelves ON bookshelves.id = books
 
            title            |          author           |     name      
 ----------------------------+---------------------------+---------------
- Dune                       | Frank Herbert             | Fantasy
- The Fellowship of the Ring | John Ronald Reuel Tolkien | Fantasy
- The Boys in the Boat       | Daniel James Brown        | Inspirational
- The New Jim Crow           | Michelle Alexander        | Culture
- The Stand                  | Stephen King              | Drama
- Unsouled                   | Will Wight                | SciFi
- Sweet Thursday             | John Steinbeck            | Classics
- The Great Gatsby           | Francis Scott Fitzgerald  | Classics
- Animal Farm                | George Orwell             | Satire
- What Alice Forgot          | Liane Moriarty            | Fiction
+|Dune                       | Frank Herbert             | Fantasy
+|The Fellowship of the Ring | John Ronald Reuel Tolkien | Fantasy
+|The Boys in the Boat       | Daniel James Brown        | Inspirational
+|The New Jim Crow           | Michelle Alexander        | Culture
+|The Stand                  | Stephen King              | Drama
+|Unsouled                   | Will Wight                | SciFi
+|Sweet Thursday             | John Steinbeck            | Classics
+|The Great Gatsby           | Francis Scott Fitzgerald  | Classics
+|Animal Farm                | George Orwell             | Satire
+|What Alice Forgot          | Liane Moriarty            | Fiction
 ----------------------------+---------------------------+---------------
 (10 rows)
 
